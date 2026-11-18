@@ -1,0 +1,12 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,16,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_003.jpg,17,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_003.jpg,18,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_003.jpg,24,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_014.jpg,135,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_014.jpg,136,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_031.jpg,417,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_031.jpg,419,sai_lop,Nguyen Van Nhat,Incorrect class confirmed by reviewer; target class not yet specified
+img_003.jpg,14,thua,Nguyen Van Nhat,Extra object reported by reviewer
+img_006.jpg,,khong,Nguyen Van Nhat,Reviewed; no errors reported
+img_035.jpg,,khong,Nguyen Van Nhat,Reviewed; no errors reported

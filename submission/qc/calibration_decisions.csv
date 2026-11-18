@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_002.jpg,loi_may,YOLO26n nhận nhầm three_wheeler thành truck,Giữ định nghĩa v1.0: xe ba bánh là three_wheeler; kiểm tra thủ công dự đoán truck,Không đổi định nghĩa lớp; bổ sung checklist kiểm tra truck/car có hình dáng xe ba bánh,v1.1
+CAL-02,img_003.jpg,bay_lot,Bẫy box person bị lệch vẫn còn lọt sau sửa,Chỉnh box theo phần người nhìn thấy; không chép tọa độ máy làm chuẩn,Không đổi quy tắc hình học v1.0; bổ sung kiểm tra lần lượt bốn cạnh box,v1.1
+CAL-03,img_002.jpg|img_003.jpg,cau_hoi_mo,Câu hỏi mở 7: có điểm confidence tối thiểu để chấp nhận box không cần sửa không,Không dùng confidence làm điều kiện bỏ qua review; chỉ giữ nguyên khi lớp và box phù hợp ảnh,Bổ sung mục 3: mọi box đều cần kiểm tra lớp và hình học bất kể confidence,v1.1

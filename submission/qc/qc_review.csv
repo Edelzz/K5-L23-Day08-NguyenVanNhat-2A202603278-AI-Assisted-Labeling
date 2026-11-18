@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,4,sai_vi_tri_kich_thuoc,Codex-AI,"Box person lech xuong, cat non/dau; doi chieu anh goc. Khong sua nhan."
+img_003.jpg,13,sai_vi_tri_kich_thuoc,Codex-AI,Box three_wheeler thieu mai gan lien va phan khung phia tren.
+img_006.jpg,77,thua,Codex-AI,Kiem truc quan: box motorbike gan trung box 76 quanh cung xe trong day do; can rework kiem lai tung xe.
+img_014.jpg,131,thua,Codex-AI,"Box motorbike cao 17.75px, duoi nguong 20px cua guideline; khong nen gan rieng."
+img_031.jpg,411,sai_vi_tri_kich_thuoc,Codex-AI,Box bicycle cat phan tren gio gan co dinh/khung xe; doi chieu quy tac gio co dinh thuoc xe.
+img_035.jpg,456,sai_vi_tri_kich_thuoc,Codex-AI,Cung xe ba banh bi chia giua box than 456 va mai 457; box xe phai gom mai gan lien.

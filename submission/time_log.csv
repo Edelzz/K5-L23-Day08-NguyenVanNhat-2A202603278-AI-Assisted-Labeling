@@ -1,1 +1,3 @@
-gold_manual,4 anh,15 phut,Gan tay 4 anh gold khong AI
+step,images,minutes,note
+gold_manual,4,15,Gan tay 4 anh gold khong AI
+batch_review,24,30,Review va sua nhan AI cho 24 anh
