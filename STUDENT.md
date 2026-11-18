@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: Edelzz
 - Repo bài nộp (URL): https://github.com/Edelzz/K5-L23-Day08-NguyenVanNhat-2A202603278-AI-Assisted-Labeling
-- Commit chốt bài (hash): 
+- Commit chốt bài (hash): Report Day 8 
 - Máy: Windows, CPU, không dùng GPU
 - CVAT (Docker): v2.81.0
 
